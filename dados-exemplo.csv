@@ -1,0 +1,13 @@
+id_venda,data,dia_semana,periodo,produto,categoria,quantidade,preco_unitario,forma_pagamento,canal,tempo_espera_min,avaliacao
+DEMO-01,2026-07-01,Quarta,Almoço,X-Burger,Lanche,2,22.90,Pix,Balcão,10,5
+DEMO-02,2026-07-01,Quarta,Noite,X-Bacon,Lanche,1,29.90,Cartão,Delivery,35,4
+DEMO-03,2026-07-01,Quarta,Noite,Refrigerante,Bebida,2,6.90,Pix,Delivery,35,
+DEMO-04,2026-07-02,Quinta,Almoço,Batata frita,Acompanhamento,1,14.90,Dinheiro,Balcão,12,4
+DEMO-05,2026-07-02,Quinta,Noite,X-Bacon,Lanche,3,29.90,Cartão,Delivery,40,3
+DEMO-06,2026-07-02,Quinta,Tarde,Milkshake,Sobremesa,1,16.90,Pix,Balcão,8,5
+DEMO-07,2026-07-03,Sexta,Almoço,X-Burger,Lanche,2,22.90,Pix,Balcão,0,5
+DEMO-08,2026-07-03,Sexta,Noite,X-Tudo,Lanche,2,34.90,Cartão,Delivery,45,3
+DEMO-09,2026-07-03,Sexta,Noite,Refrigerante,Bebida,3,6.90,Pix,Delivery,,4
+DEMO-10,2026-07-04,Sábado,Almoço,Batata frita,Acompanhamento,2,14.90,Dinheiro,Balcão,15,
+DEMO-11,2026-07-04,Sábado,Tarde,Milkshake,Sobremesa,2,16.90,Pix,Balcão,9,5
+DEMO-12,2026-07-04,Sábado,Noite,X-Tudo,Lanche,3,34.90,Cartão,Delivery,38,4
